@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WZ_HelloKit"
-  s.version      = "1.1.0"
+  s.version      = "1.1.1"
   s.summary      = "The package of useful tools, include categories and classes"
   s.homepage     = "https://github.com/hwzss/WZ_HelloKit"
   s.license      = { :type => "MIT", :file => "LICENSE" }
