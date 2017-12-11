@@ -11,6 +11,6 @@
 @implementation WZ_Hello
 
 +(void)WZ_sayHello{
-    NSLog(@"哈哈哈哈😄，可以了吧😄ulse");
+    NSLog(@"哈哈哈哈😄，可以了吧😄吧😄");
 }
 @end
